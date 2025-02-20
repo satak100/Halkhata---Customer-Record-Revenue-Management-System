@@ -31,13 +31,13 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/halkhata-system.git
-cd halkhata-system
+git clone https://github.com/yourusername/Halkhata---Customer-Record-Revenue-Management-System.git
+cd Halkhata---Customer-Record-Revenue-Management-System
 ```
 
 ### **2️⃣ Compile the Code**  
 ```bash
-gcc -o halkhata halkhata.c
+gcc -o halkhata Project.c
 ```
 
 ### **3️⃣ Run the Program**  
@@ -54,14 +54,12 @@ Below is an image of the **first console page** when running the program.
 
 ![Halkhata System Console Screenshot](console_output.png)  
 
-_(Make sure `console_output.png` exists in the repository for proper display.)_  
-
 ---
 
 ## **📜 File Structure**  
 ```
-📂 halkhata-system
- ┣ 📜 halkhata.c           # Main source code file
+📂 Halkhata---Customer-Record-Revenue-Management-System
+ ┣ 📜 Project.c            # Main source code file
  ┣ 📜 README.md            # This file
  ┣ 📜 record.txt           # Stores customer transaction data
  ┣ 📜 console_output.png   # Screenshot of the first console page
